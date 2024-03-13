@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">pr3</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string-array name="Course">
+        <item>Diploma</item>
+        <item>B.Tech</item>
+        <item>M.Tech</item>
+
+    </string-array>
+</resources>
